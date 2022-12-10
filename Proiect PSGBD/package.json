@@ -9,7 +9,7 @@
     "cookie-parser": "^1.4.4",
     "cookieparser": "^0.1.0",
     "debug": "~2.6.9",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "0.0.0",
     "http-errors": "^1.6.3",
     "morgan": "^1.9.1",
